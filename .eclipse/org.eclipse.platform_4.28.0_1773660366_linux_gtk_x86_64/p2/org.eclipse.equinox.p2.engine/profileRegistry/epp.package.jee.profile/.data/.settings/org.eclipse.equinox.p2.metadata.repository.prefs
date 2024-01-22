@@ -1,0 +1,16 @@
+eclipse.preferences.version=1
+repositories/file\:_eecs_home_adriansd_.eclipse_org.eclipse.platform_4.28.0_1773660366_linux_gtk_x86_64_configuration_org.eclipse.osgi_381_data_listener_1925729951/description=
+repositories/file\:_eecs_home_adriansd_.eclipse_org.eclipse.platform_4.28.0_1773660366_linux_gtk_x86_64_configuration_org.eclipse.osgi_381_data_listener_1925729951/isSystem=true
+repositories/file\:_eecs_home_adriansd_.eclipse_org.eclipse.platform_4.28.0_1773660366_linux_gtk_x86_64_configuration_org.eclipse.osgi_381_data_listener_1925729951/name=dropins
+repositories/file\:_eecs_home_adriansd_.eclipse_org.eclipse.platform_4.28.0_1773660366_linux_gtk_x86_64_configuration_org.eclipse.osgi_381_data_listener_1925729951/provider=
+repositories/file\:_eecs_home_adriansd_.eclipse_org.eclipse.platform_4.28.0_1773660366_linux_gtk_x86_64_configuration_org.eclipse.osgi_381_data_listener_1925729951/type=org.eclipse.equinox.internal.p2.metadata.repository.LocalMetadataRepository
+repositories/file\:_eecs_home_adriansd_.eclipse_org.eclipse.platform_4.28.0_1773660366_linux_gtk_x86_64_configuration_org.eclipse.osgi_381_data_listener_1925729951/uri=file\:/eecs/home/adriansd/.eclipse/org.eclipse.platform_4.28.0_1773660366_linux_gtk_x86_64/configuration/org.eclipse.osgi/381/data/listener_1925729951/
+repositories/file\:_eecs_home_adriansd_.eclipse_org.eclipse.platform_4.28.0_1773660366_linux_gtk_x86_64_configuration_org.eclipse.osgi_381_data_listener_1925729951/version=1
+repositories/file\:_pkgcache_eclipse-4.28.0_.eclipseextension/description=
+repositories/file\:_pkgcache_eclipse-4.28.0_.eclipseextension/enabled=true
+repositories/file\:_pkgcache_eclipse-4.28.0_.eclipseextension/isSystem=true
+repositories/file\:_pkgcache_eclipse-4.28.0_.eclipseextension/name=/pkgcache/eclipse-4.28.0/.eclipseextension
+repositories/file\:_pkgcache_eclipse-4.28.0_.eclipseextension/provider=
+repositories/file\:_pkgcache_eclipse-4.28.0_.eclipseextension/type=org.eclipse.equinox.p2.extensionlocation.metadataRepository
+repositories/file\:_pkgcache_eclipse-4.28.0_.eclipseextension/uri=file\:/pkgcache/eclipse-4.28.0/.eclipseextension
+repositories/file\:_pkgcache_eclipse-4.28.0_.eclipseextension/version=1

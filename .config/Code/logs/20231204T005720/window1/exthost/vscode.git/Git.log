@@ -1,0 +1,9 @@
+2023-12-04 00:57:23.411 [info] Log level: Info
+2023-12-04 00:57:23.411 [info] Validating found git in: "git"
+2023-12-04 00:57:23.411 [info] Using git "2.39.3" from "git"
+2023-12-04 00:57:23.478 [info] > git rev-parse --show-toplevel [69ms]
+2023-12-04 00:57:23.478 [info] fatal: not a git repository (or any parent up to mount point /eecs/home)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2023-12-04 00:57:25.159 [info] > git rev-parse --show-toplevel [4ms]
+2023-12-04 00:57:25.159 [info] fatal: not a git repository (or any parent up to mount point /eecs/home)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).

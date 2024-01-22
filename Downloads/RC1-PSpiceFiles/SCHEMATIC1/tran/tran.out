@@ -1,0 +1,59 @@
+
+**** 09/14/23 17:46:55 ******* PSpice Lite (March 2016) ******* ID# 10813 ****
+
+ ** Profile: "SCHEMATIC1-tran"  [ Z:\Downloads\RC1-PSpiceFiles\SCHEMATIC1\tran.sim ] 
+
+
+ ****     CIRCUIT DESCRIPTION
+
+
+******************************************************************************
+
+
+
+
+** Creating circuit file "tran.cir" 
+** WARNING: THIS AUTOMATICALLY GENERATED FILE MAY BE OVERWRITTEN BY SUBSEQUENT SIMULATIONS
+
+*Libraries: 
+* Profile Libraries :
+* Local Libraries :
+* From [PSPICE NETLIST] section of C:\Users\adriansd\AppData\Local\Temp\17.2.0\PSpice.ini file:
+.lib "nomd.lib" 
+
+*Analysis directives: 
+.TRAN  0 300ms 0 SKIPBP 
+.OPTIONS ADVCONV
+.PROBE64 V(alias(*)) I(alias(*)) W(alias(*)) D(alias(*)) NOISE(alias(*)) 
+.INC "..\SCHEMATIC1.net" 
+
+
+
+**** INCLUDING SCHEMATIC1.net ****
+* source RC1
+R_R1         N00396 N00406  2k TC=0,0 
+C_C1         0 N00406  10uF  TC=0,0 
+V_V2         N00396 0  
++PWL 0e-3 0 10e-3 1 100e-3 1 101e-3 0 200e-3 0 210e-3 0 220e-3 0 230e-3 0
++  240e-3 0 250e-3 0 
+
+**** RESUMING tran.cir ****
+.END
+
+
+          JOB CONCLUDED
+
+**** 09/14/23 17:46:55 ******* PSpice Lite (March 2016) ******* ID# 10813 ****
+
+ ** Profile: "SCHEMATIC1-tran"  [ Z:\Downloads\RC1-PSpiceFiles\SCHEMATIC1\tran.sim ] 
+
+
+ ****     JOB STATISTICS SUMMARY
+
+
+******************************************************************************
+
+
+
+  Total job time (using Solver 1)   =         .02
+

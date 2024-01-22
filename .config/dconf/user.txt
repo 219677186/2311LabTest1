@@ -1,0 +1,102 @@
+[org/gnome/desktop/lockdown]
+disable-lock-screen=true
+
+[org/gnome/evolution-data-server]
+migrated=true
+
+network-monitor-gio-name=''
+
+[org/gnome/shell]
+favorite-apps=['firefox.desktop', 'thunderbird.desktop', 'org.gnome.Terminal.desktop', 'eclipse.desktop', 'org.gnome.Nautilus.desktop']
+
+[org/gnome/desktop/interface]
+gtk-im-module='gtk-im-context-simple'
+
+[org/gnome/desktop/input-sources]
+sources=[('xkb', 'us')]
+xkb-options=@as []
+
+[org/gnome/desktop/privacy]
+disable-microphone=false
+
+[org/gnome/software]
+check-timestamp=int64 1705948471
+
+install-timestamp=int64 1678114706
+
+[org/gnome/desktop/notifications/application/org-gnome-software]
+application-id='org.gnome.Software.desktop'
+
+[org/gnome/desktop/notifications]
+application-children=['org-gnome-software', 'gnome-printers-panel', 'code']
+
+[org/gnome/settings-daemon/peripherals/keyboard]
+numlock-state='off'
+
+[org/gnome/file-roller/listing]
+show-path=false
+
+name-column-width=250
+
+sort-method='name'
+
+sort-type='ascending'
+
+list-mode='as-folder'
+
+[org/gnome/terminal/legacy]
+schema-version=uint32 3
+
+[org/gnome/evince/default]
+window-ratio=(1.5686274509803921, 1.2702020202020201)
+
+[org/gnome/file-roller/ui]
+window-width=600
+window-height=480
+sidebar-width=200
+
+[org/gnome/nautilus/preferences]
+search-filter-time-type='last_modified'
+default-folder-viewer='icon-view'
+
+search-view='list-view'
+
+[org/gnome/nautilus/window-state]
+initial-size=(890, 550)
+maximized=true
+
+[org/gtk/settings/file-chooser]
+window-position=(0, 188)
+window-size=(744, 369)
+date-format='regular'
+location-mode='path-bar'
+show-hidden=false
+show-size-column=true
+sidebar-width=163
+sort-column='name'
+sort-directories-first=false
+sort-order='ascending'
+
+[org/gnome/desktop/notifications/application/gnome-printers-panel]
+application-id='gnome-printers-panel.desktop'
+
+[org/gnome/gedit/plugins]
+active-plugins=['time', 'spell', 'modelines', 'filebrowser', 'docinfo']
+
+[org/gnome/gedit/preferences/ui]
+show-tabs-mode='auto'
+
+[org/gnome/gedit/plugins/filebrowser]
+tree-view=true
+root='file:///'
+virtual-root='file:///cs/home/adriansd'
+
+[org/gnome/gedit/state/window]
+bottom-panel-size=140
+side-panel-active-page='GeditWindowDocumentsPanel'
+side-panel-size=200
+size=(894, 692)
+state=43908
+
+[org/gnome/desktop/notifications/application/code]
+application-id='code.desktop'

@@ -1,0 +1,2 @@
+2023-12-01 21:26:43.695 [error] status error(undefined): + Error: spawn /pkgcache/vscode-1.81.1/bin/code-tunnel ENOENT 
+2023-12-01 21:26:43.695 [error] undefined

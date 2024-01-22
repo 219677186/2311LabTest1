@@ -1,0 +1,885 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xbel version="1.0"
+      xmlns:bookmark="http://www.freedesktop.org/standards/desktop-bookmarks"
+      xmlns:mime="http://www.freedesktop.org/standards/shared-mime-info"
+>
+  <bookmark href="file:///cs/home/adriansd/b2a05.asm" added="2023-09-25T20:31:34Z" modified="2023-11-06T05:10:08Z" visited="2023-09-25T20:31:35Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox-esr %u&apos;" modified="2023-09-25T20:31:34Z" count="1"/>
+          <bookmark:application name="gtkwave" exec="&apos;gtkwave %u&apos;" modified="2023-11-06T05:10:08Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///cs/home/adriansd/c4b05.asm" added="2023-10-13T18:28:31Z" modified="2023-10-13T18:28:31Z" visited="2023-10-13T18:28:31Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox-esr %u&apos;" modified="2023-10-13T18:28:31Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///cs/home/adriansd/c4a05.asm" added="2023-10-13T18:28:49Z" modified="2023-10-13T18:28:49Z" visited="2023-10-13T18:28:49Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox-esr %u&apos;" modified="2023-10-13T18:28:49Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///cs/home/adriansd/c3c05.asm" added="2023-10-13T18:30:14Z" modified="2023-10-13T18:32:26Z" visited="2023-10-13T18:30:14Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox-esr %u&apos;" modified="2023-10-13T18:32:26Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///cs/home/adriansd/c3b05.asm" added="2023-10-13T18:30:43Z" modified="2023-10-13T18:30:43Z" visited="2023-10-13T18:30:43Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox-esr %u&apos;" modified="2023-10-13T18:30:43Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///cs/home/adriansd/c3a05.asm" added="2023-10-13T18:31:20Z" modified="2023-10-13T18:31:20Z" visited="2023-10-13T18:31:20Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox-esr %u&apos;" modified="2023-10-13T18:31:20Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///cs/home/adriansd/c2a05.asm" added="2023-10-13T18:31:39Z" modified="2023-10-13T18:31:39Z" visited="2023-10-13T18:31:39Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox-esr %u&apos;" modified="2023-10-13T18:31:39Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///cs/home/adriansd/c3d.asm" added="2023-10-13T18:32:11Z" modified="2023-10-13T18:33:27Z" visited="2023-10-13T18:32:11Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox-esr %u&apos;" modified="2023-10-13T18:33:27Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///cs/home/adriansd/c3b.asm" added="2023-10-13T18:32:41Z" modified="2023-10-13T18:32:41Z" visited="2023-10-13T18:32:41Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox-esr %u&apos;" modified="2023-10-13T18:32:41Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///cs/home/adriansd/c3a.asm" added="2023-10-13T18:33:00Z" modified="2023-10-13T18:33:00Z" visited="2023-10-13T18:33:00Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox-esr %u&apos;" modified="2023-10-13T18:33:00Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///cs/home/adriansd/c3c.asm" added="2023-10-13T18:35:47Z" modified="2023-10-13T18:35:47Z" visited="2023-10-13T18:35:47Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox-esr %u&apos;" modified="2023-10-13T18:35:47Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///cs/home/adriansd/Labs(1).zip" added="2023-10-23T23:12:57Z" modified="2023-10-23T23:12:57Z" visited="2023-10-23T23:12:57Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/zip"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox-esr %u&apos;" modified="2023-10-23T23:12:57Z" count="1"/>
+          <bookmark:application name="File Roller" exec="&apos;file-roller&apos;" modified="2023-10-23T23:12:57Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///cs/home/adriansd/.cache/.fr-NMUdDh/Labs/Lab%2003.pdf" added="2023-10-23T23:13:01Z" modified="2023-10-23T23:13:01Z" visited="2023-10-23T23:13:01Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/pdf"/>
+        <bookmark:applications>
+          <bookmark:application name="Document Viewer" exec="&apos;evince %u&apos;" modified="2023-10-23T23:13:01Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///cs/home/adriansd/.cache/.fr-RUfzBM/Labs/Lab%2004.pdf" added="2023-10-23T23:13:05Z" modified="2023-10-23T23:13:05Z" visited="2023-10-23T23:13:05Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/pdf"/>
+        <bookmark:applications>
+          <bookmark:application name="Document Viewer" exec="&apos;evince %u&apos;" modified="2023-10-23T23:13:05Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///cs/home/adriansd/d1a.asm" added="2023-10-24T00:46:17Z" modified="2023-10-24T00:46:17Z" visited="2023-10-24T00:46:18Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox-esr %u&apos;" modified="2023-10-24T00:46:17Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///cs/home/adriansd/d1c.asm" added="2023-10-24T00:47:03Z" modified="2023-10-24T00:47:03Z" visited="2023-10-24T00:47:03Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox-esr %u&apos;" modified="2023-10-24T00:47:03Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///cs/home/adriansd/d1d.asm" added="2023-10-24T00:47:13Z" modified="2023-10-24T00:47:13Z" visited="2023-10-24T00:47:13Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox-esr %u&apos;" modified="2023-10-24T00:47:13Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///cs/home/adriansd/d1e.asm" added="2023-10-24T00:47:37Z" modified="2023-10-24T00:47:37Z" visited="2023-10-24T00:47:37Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox-esr %u&apos;" modified="2023-10-24T00:47:37Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///cs/home/adriansd/d1f.asm" added="2023-10-24T00:47:56Z" modified="2023-10-24T00:47:56Z" visited="2023-10-24T00:47:56Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox-esr %u&apos;" modified="2023-10-24T00:47:56Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///cs/home/adriansd/d2a.asm" added="2023-10-24T00:48:57Z" modified="2023-10-24T00:48:57Z" visited="2023-10-24T00:48:58Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox-esr %u&apos;" modified="2023-10-24T00:48:57Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///cs/home/adriansd/d2b.asm" added="2023-10-24T00:48:58Z" modified="2023-10-24T00:48:58Z" visited="2023-10-24T00:48:58Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox-esr %u&apos;" modified="2023-10-24T00:48:58Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///cs/home/adriansd/d2c.asm" added="2023-10-24T00:49:08Z" modified="2023-10-24T00:49:08Z" visited="2023-10-24T00:49:08Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox-esr %u&apos;" modified="2023-10-24T00:49:08Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///cs/home/adriansd/d2d2.asm" added="2023-10-24T00:49:36Z" modified="2023-10-24T00:49:36Z" visited="2023-10-24T00:49:36Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox-esr %u&apos;" modified="2023-10-24T00:49:36Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///cs/home/adriansd/d2e.asm" added="2023-10-24T00:49:56Z" modified="2023-10-24T00:49:56Z" visited="2023-10-24T00:49:56Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox-esr %u&apos;" modified="2023-10-24T00:49:56Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///cs/home/adriansd/d2f.asm" added="2023-10-24T00:49:58Z" modified="2023-10-24T00:49:58Z" visited="2023-10-24T00:49:58Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox-esr %u&apos;" modified="2023-10-24T00:49:58Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///cs/home/adriansd/d2g.asm" added="2023-10-24T00:50:00Z" modified="2023-10-24T00:50:00Z" visited="2023-10-24T00:50:00Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox-esr %u&apos;" modified="2023-10-24T00:50:00Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///cs/home/adriansd/d2h.asm" added="2023-10-24T00:50:01Z" modified="2023-10-24T00:50:01Z" visited="2023-10-24T00:50:02Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox-esr %u&apos;" modified="2023-10-24T00:50:01Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///cs/home/adriansd/d2i.asm" added="2023-10-24T00:50:23Z" modified="2023-10-24T00:50:23Z" visited="2023-10-24T00:50:23Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox-esr %u&apos;" modified="2023-10-24T00:50:23Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///cs/home/adriansd/d2j.asm" added="2023-10-24T00:50:25Z" modified="2023-10-24T00:50:25Z" visited="2023-10-24T00:50:25Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox-esr %u&apos;" modified="2023-10-24T00:50:25Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///cs/home/adriansd/d2k.asm" added="2023-10-24T00:50:27Z" modified="2023-10-24T00:50:27Z" visited="2023-10-24T00:50:27Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox-esr %u&apos;" modified="2023-10-24T00:50:27Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///cs/home/adriansd/d2h(1).asm" added="2023-10-24T00:50:29Z" modified="2023-10-24T00:50:29Z" visited="2023-10-24T00:50:29Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox-esr %u&apos;" modified="2023-10-24T00:50:29Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///cs/home/adriansd/Lab%204%20Report%20-%20Adrian%20Sam%20Daliri.pdf" added="2023-10-24T00:53:14Z" modified="2023-10-24T00:53:14Z" visited="2023-10-24T00:53:14Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/pdf"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox-esr %u&apos;" modified="2023-10-24T00:53:14Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///cs/home/adriansd/VerilogIntroFiles.zip" added="2023-11-06T05:19:19Z" modified="2023-11-06T05:25:50Z" visited="2023-11-06T05:19:19Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/zip"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox-esr %u&apos;" modified="2023-11-06T05:19:19Z" count="1"/>
+          <bookmark:application name="File Roller" exec="&apos;file-roller&apos;" modified="2023-11-06T05:25:50Z" count="3"/>
+          <bookmark:application name="gtkwave" exec="&apos;gtkwave %u&apos;" modified="2023-11-06T05:20:09Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///cs/home/adriansd/.cache/.fr-UezgZN/paramAdder.v" added="2023-11-06T05:19:30Z" modified="2023-11-06T05:21:09Z" visited="2023-11-06T05:19:31Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-verilog"/>
+        <bookmark:groups>
+          <bookmark:group>gedit</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2023-11-06T05:20:51Z" count="3"/>
+          <bookmark:application name="gtkwave" exec="&apos;gtkwave %u&apos;" modified="2023-11-06T05:21:09Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///cs/home/adriansd/.cache/.fr-EDplpf/paramAdder.v" added="2023-11-06T05:25:26Z" modified="2023-11-06T05:25:29Z" visited="2023-11-06T05:25:26Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-verilog"/>
+        <bookmark:groups>
+          <bookmark:group>gedit</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2023-11-06T05:25:29Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///cs/home/adriansd/Desktop/paramAdder.v" added="2023-11-06T05:25:40Z" modified="2023-11-06T05:25:40Z" visited="2023-11-06T05:25:40Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-verilog"/>
+        <bookmark:groups>
+          <bookmark:group>gedit</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2023-11-06T05:25:40Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///cs/home/adriansd/LabK1.v" added="2023-11-10T03:03:17Z" modified="2023-11-26T03:43:00Z" visited="2023-11-10T03:03:17Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-verilog"/>
+        <bookmark:applications>
+          <bookmark:application name="code" exec="&apos;code %u&apos;" modified="2023-11-13T18:38:58Z" count="2"/>
+          <bookmark:application name="Firefox" exec="&apos;firefox-esr %u&apos;" modified="2023-11-26T03:43:00Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///cs/home/adriansd/LabK2.v" added="2023-11-13T17:51:22Z" modified="2023-11-26T03:43:12Z" visited="2023-11-13T17:51:22Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-verilog"/>
+        <bookmark:applications>
+          <bookmark:application name="code" exec="&apos;code %u&apos;" modified="2023-11-13T18:58:26Z" count="3"/>
+          <bookmark:application name="Firefox" exec="&apos;firefox-esr %u&apos;" modified="2023-11-26T03:43:12Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///cs/home/adriansd/Documents/Lab%205" added="2023-11-13T18:38:00Z" modified="2023-11-13T18:38:00Z" visited="2023-11-13T18:38:00Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="code" exec="&apos;code %u&apos;" modified="2023-11-13T18:38:00Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///cs/home/adriansd/LabK3.v" added="2023-11-13T21:11:20Z" modified="2023-11-26T03:43:21Z" visited="2023-11-13T21:11:20Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-verilog"/>
+        <bookmark:applications>
+          <bookmark:application name="code" exec="&apos;code %u&apos;" modified="2023-11-13T21:11:20Z" count="1"/>
+          <bookmark:application name="Firefox" exec="&apos;firefox-esr %u&apos;" modified="2023-11-26T03:43:21Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///cs/home/adriansd/LabK4.v" added="2023-11-13T21:42:29Z" modified="2023-11-26T03:47:34Z" visited="2023-11-13T21:42:29Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-verilog"/>
+        <bookmark:applications>
+          <bookmark:application name="code" exec="&apos;code %u&apos;" modified="2023-11-13T21:42:29Z" count="1"/>
+          <bookmark:application name="Firefox" exec="&apos;firefox-esr %u&apos;" modified="2023-11-26T03:47:34Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///cs/home/adriansd/LabK5.v" added="2023-11-13T22:11:43Z" modified="2023-11-26T03:48:53Z" visited="2023-11-13T22:11:43Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-verilog"/>
+        <bookmark:applications>
+          <bookmark:application name="code" exec="&apos;code %u&apos;" modified="2023-11-19T18:29:04Z" count="2"/>
+          <bookmark:application name="Firefox" exec="&apos;firefox-esr %u&apos;" modified="2023-11-26T03:48:53Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///cs/home/adriansd/LabK6.v" added="2023-11-13T23:47:11Z" modified="2023-11-26T03:49:08Z" visited="2023-11-13T23:47:12Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-verilog"/>
+        <bookmark:applications>
+          <bookmark:application name="code" exec="&apos;code %u&apos;" modified="2023-11-13T23:47:11Z" count="1"/>
+          <bookmark:application name="Firefox" exec="&apos;firefox-esr %u&apos;" modified="2023-11-26T03:49:08Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///cs/home/adriansd/LabK7.v" added="2023-11-14T00:21:30Z" modified="2023-11-19T01:14:43Z" visited="2023-11-14T00:21:31Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-verilog"/>
+        <bookmark:applications>
+          <bookmark:application name="code" exec="&apos;code %u&apos;" modified="2023-11-14T00:21:30Z" count="1"/>
+          <bookmark:application name="Firefox" exec="&apos;firefox-esr %u&apos;" modified="2023-11-19T01:14:43Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///cs/home/adriansd/LabK8.v" added="2023-11-14T01:04:47Z" modified="2023-11-19T01:15:41Z" visited="2023-11-14T01:04:48Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-verilog"/>
+        <bookmark:applications>
+          <bookmark:application name="code" exec="&apos;code %u&apos;" modified="2023-11-14T01:04:47Z" count="1"/>
+          <bookmark:application name="Firefox" exec="&apos;firefox-esr %u&apos;" modified="2023-11-19T01:15:41Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///cs/home/adriansd/LabK9.v" added="2023-11-14T01:48:34Z" modified="2023-11-19T01:22:19Z" visited="2023-11-14T01:48:35Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-verilog"/>
+        <bookmark:applications>
+          <bookmark:application name="code" exec="&apos;code %u&apos;" modified="2023-11-14T01:48:34Z" count="1"/>
+          <bookmark:application name="Firefox" exec="&apos;firefox-esr %u&apos;" modified="2023-11-19T01:22:19Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///cs/home/adriansd/yMux1.v" added="2023-11-19T18:21:05Z" modified="2023-11-26T03:50:08Z" visited="2023-11-19T18:21:05Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-verilog"/>
+        <bookmark:applications>
+          <bookmark:application name="code" exec="&apos;code %u&apos;" modified="2023-11-19T18:21:05Z" count="1"/>
+          <bookmark:application name="Firefox" exec="&apos;firefox-esr %u&apos;" modified="2023-11-26T03:50:08Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///cs/home/adriansd/LabL1.v" added="2023-11-19T18:35:37Z" modified="2023-11-26T04:52:57Z" visited="2023-11-19T18:35:37Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-verilog"/>
+        <bookmark:applications>
+          <bookmark:application name="code" exec="&apos;code %u&apos;" modified="2023-11-19T18:35:37Z" count="1"/>
+          <bookmark:application name="Firefox" exec="&apos;firefox-esr %u&apos;" modified="2023-11-26T04:52:57Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///cs/home/adriansd/yMux2.v" added="2023-11-19T19:07:29Z" modified="2023-11-26T03:40:48Z" visited="2023-11-19T19:07:30Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-verilog"/>
+        <bookmark:applications>
+          <bookmark:application name="code" exec="&apos;code %u&apos;" modified="2023-11-19T19:07:29Z" count="1"/>
+          <bookmark:application name="Firefox" exec="&apos;firefox-esr %u&apos;" modified="2023-11-26T03:40:48Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///cs/home/adriansd/LabL2.v" added="2023-11-19T19:14:04Z" modified="2023-11-26T04:53:11Z" visited="2023-11-19T19:14:04Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-verilog"/>
+        <bookmark:applications>
+          <bookmark:application name="code" exec="&apos;code %u&apos;" modified="2023-11-19T19:14:04Z" count="1"/>
+          <bookmark:application name="Firefox" exec="&apos;firefox-esr %u&apos;" modified="2023-11-26T04:53:11Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///cs/home/adriansd/LabL3.v" added="2023-11-20T18:37:57Z" modified="2023-11-26T04:53:24Z" visited="2023-11-20T18:37:57Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-verilog"/>
+        <bookmark:applications>
+          <bookmark:application name="code" exec="&apos;code %u&apos;" modified="2023-11-20T18:37:57Z" count="1"/>
+          <bookmark:application name="Firefox" exec="&apos;firefox-esr %u&apos;" modified="2023-11-26T04:53:24Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///cs/home/adriansd/yMux4to1.v" added="2023-11-20T18:51:37Z" modified="2023-11-26T03:41:08Z" visited="2023-11-20T18:51:37Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-verilog"/>
+        <bookmark:applications>
+          <bookmark:application name="code" exec="&apos;code %u&apos;" modified="2023-11-20T18:51:37Z" count="1"/>
+          <bookmark:application name="Firefox" exec="&apos;firefox-esr %u&apos;" modified="2023-11-26T03:41:08Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///cs/home/adriansd/LabL4.v" added="2023-11-20T20:14:43Z" modified="2023-11-26T04:53:42Z" visited="2023-11-20T20:14:43Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-verilog"/>
+        <bookmark:applications>
+          <bookmark:application name="code" exec="&apos;code %u&apos;" modified="2023-11-20T20:14:43Z" count="1"/>
+          <bookmark:application name="Firefox" exec="&apos;firefox-esr %u&apos;" modified="2023-11-26T04:53:42Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///cs/home/adriansd/yAdder1.v" added="2023-11-20T21:13:02Z" modified="2023-11-26T03:41:23Z" visited="2023-11-20T21:13:02Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-verilog"/>
+        <bookmark:applications>
+          <bookmark:application name="code" exec="&apos;code %u&apos;" modified="2023-11-20T21:13:02Z" count="1"/>
+          <bookmark:application name="Firefox" exec="&apos;firefox-esr %u&apos;" modified="2023-11-26T03:41:23Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///cs/home/adriansd/LabL5.v" added="2023-11-20T21:26:39Z" modified="2023-11-26T04:54:04Z" visited="2023-11-20T21:26:39Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-verilog"/>
+        <bookmark:applications>
+          <bookmark:application name="code" exec="&apos;code %u&apos;" modified="2023-11-20T21:26:39Z" count="1"/>
+          <bookmark:application name="Firefox" exec="&apos;firefox-esr %u&apos;" modified="2023-11-26T04:54:04Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///cs/home/adriansd/yAdder.v" added="2023-11-20T22:01:23Z" modified="2023-11-26T03:41:31Z" visited="2023-11-20T22:01:23Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-verilog"/>
+        <bookmark:applications>
+          <bookmark:application name="code" exec="&apos;code %u&apos;" modified="2023-11-20T22:01:23Z" count="1"/>
+          <bookmark:application name="Firefox" exec="&apos;firefox-esr %u&apos;" modified="2023-11-26T03:41:31Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///cs/home/adriansd/LabL6.v" added="2023-11-20T22:09:30Z" modified="2023-11-26T04:54:19Z" visited="2023-11-20T22:09:30Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-verilog"/>
+        <bookmark:applications>
+          <bookmark:application name="code" exec="&apos;code %u&apos;" modified="2023-11-20T22:09:30Z" count="1"/>
+          <bookmark:application name="Firefox" exec="&apos;firefox-esr %u&apos;" modified="2023-11-26T04:54:19Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///cs/home/adriansd/LabL7.v" added="2023-11-24T15:17:09Z" modified="2023-11-26T03:49:50Z" visited="2023-11-24T15:17:09Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-verilog"/>
+        <bookmark:applications>
+          <bookmark:application name="code" exec="&apos;code %u&apos;" modified="2023-11-24T15:17:09Z" count="1"/>
+          <bookmark:application name="Firefox" exec="&apos;firefox-esr %u&apos;" modified="2023-11-26T03:49:50Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///cs/home/adriansd/yArith.v" added="2023-11-24T19:17:20Z" modified="2023-11-26T03:40:09Z" visited="2023-11-24T19:17:20Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-verilog"/>
+        <bookmark:applications>
+          <bookmark:application name="code" exec="&apos;code %u&apos;" modified="2023-11-24T19:17:20Z" count="1"/>
+          <bookmark:application name="Firefox" exec="&apos;firefox-esr %u&apos;" modified="2023-11-26T03:40:09Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///cs/home/adriansd/LabL8.v" added="2023-11-25T20:44:40Z" modified="2023-11-26T03:40:19Z" visited="2023-11-25T20:44:40Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-verilog"/>
+        <bookmark:applications>
+          <bookmark:application name="code" exec="&apos;code %u&apos;" modified="2023-11-25T20:44:40Z" count="1"/>
+          <bookmark:application name="Firefox" exec="&apos;firefox-esr %u&apos;" modified="2023-11-26T03:40:19Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///cs/home/adriansd/yAlu.v" added="2023-11-25T23:50:21Z" modified="2023-12-02T03:54:22Z" visited="2023-11-25T23:50:21Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-verilog"/>
+        <bookmark:applications>
+          <bookmark:application name="code" exec="&apos;code %u&apos;" modified="2023-12-02T03:54:22Z" count="2"/>
+          <bookmark:application name="Firefox" exec="&apos;firefox-esr %u&apos;" modified="2023-11-26T03:39:51Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///cs/home/adriansd/LabL9.v" added="2023-11-26T00:39:23Z" modified="2023-11-26T03:40:01Z" visited="2023-11-26T00:39:23Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-verilog"/>
+        <bookmark:applications>
+          <bookmark:application name="code" exec="&apos;code %u&apos;" modified="2023-11-26T00:39:23Z" count="1"/>
+          <bookmark:application name="Firefox" exec="&apos;firefox-esr %u&apos;" modified="2023-11-26T03:40:01Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///cs/home/adriansd/LabL10.v" added="2023-11-26T02:38:39Z" modified="2023-11-26T03:39:39Z" visited="2023-11-26T02:38:40Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-verilog"/>
+        <bookmark:applications>
+          <bookmark:application name="code" exec="&apos;code %u&apos;" modified="2023-11-26T02:38:39Z" count="1"/>
+          <bookmark:application name="Firefox" exec="&apos;firefox-esr %u&apos;" modified="2023-11-26T03:39:39Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///cs/home/adriansd/LabL11.v" added="2023-11-26T03:24:29Z" modified="2023-11-26T03:39:29Z" visited="2023-11-26T03:24:29Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-verilog"/>
+        <bookmark:applications>
+          <bookmark:application name="code" exec="&apos;code %u&apos;" modified="2023-11-26T03:24:29Z" count="1"/>
+          <bookmark:application name="Firefox" exec="&apos;firefox-esr %u&apos;" modified="2023-11-26T03:39:29Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///cs/home/adriansd/cpu.v" added="2023-11-26T03:25:50Z" modified="2023-12-04T22:25:48Z" visited="2023-11-26T03:25:51Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-verilog"/>
+        <bookmark:groups>
+          <bookmark:group>gedit</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2023-12-01T21:14:08Z" count="15"/>
+          <bookmark:application name="Firefox" exec="&apos;firefox-esr %u&apos;" modified="2023-12-04T22:25:48Z" count="3"/>
+          <bookmark:application name="code" exec="&apos;code %u&apos;" modified="2023-12-02T03:49:52Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///cs/home/adriansd/yMux.v" added="2023-11-27T22:48:22Z" modified="2023-11-27T22:48:22Z" visited="2023-11-27T22:48:22Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-verilog"/>
+        <bookmark:applications>
+          <bookmark:application name="code" exec="&apos;code %u&apos;" modified="2023-11-27T22:48:22Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///cs/home/adriansd/Labs.zip" added="2023-11-28T00:28:50Z" modified="2023-11-28T00:30:56Z" visited="2023-11-28T00:28:51Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/zip"/>
+        <bookmark:applications>
+          <bookmark:application name="File Roller" exec="&apos;file-roller&apos;" modified="2023-11-28T00:30:56Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///cs/home/adriansd/.cache/.fr-dWoAxo/Labs/Lab%2006.pdf" added="2023-11-28T00:28:56Z" modified="2023-11-28T00:28:56Z" visited="2023-11-28T00:28:56Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/pdf"/>
+        <bookmark:applications>
+          <bookmark:application name="Document Viewer" exec="&apos;evince %u&apos;" modified="2023-11-28T00:28:56Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///cs/home/adriansd/.cache/.fr-Wp2ejt/Labs/Lab%2006.pdf" added="2023-11-28T00:31:02Z" modified="2023-11-28T00:31:02Z" visited="2023-11-28T00:31:02Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/pdf"/>
+        <bookmark:applications>
+          <bookmark:application name="Document Viewer" exec="&apos;evince %u&apos;" modified="2023-11-28T00:31:02Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///cs/home/adriansd/LabM1.v" added="2023-12-01T23:47:56Z" modified="2023-12-03T04:10:51Z" visited="2023-12-01T23:47:56Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-verilog"/>
+        <bookmark:applications>
+          <bookmark:application name="code" exec="&apos;code %u&apos;" modified="2023-12-01T23:47:56Z" count="1"/>
+          <bookmark:application name="Firefox" exec="&apos;firefox-esr %u&apos;" modified="2023-12-03T04:10:51Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///cs/home/adriansd/LabM2.v" added="2023-12-02T00:07:32Z" modified="2023-12-03T04:10:42Z" visited="2023-12-02T00:07:32Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-verilog"/>
+        <bookmark:applications>
+          <bookmark:application name="code" exec="&apos;code %u&apos;" modified="2023-12-02T00:07:32Z" count="1"/>
+          <bookmark:application name="Firefox" exec="&apos;firefox-esr %u&apos;" modified="2023-12-03T04:10:42Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///cs/home/adriansd/LabM3.v" added="2023-12-02T00:25:21Z" modified="2023-12-03T04:10:33Z" visited="2023-12-02T00:25:21Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-verilog"/>
+        <bookmark:applications>
+          <bookmark:application name="code" exec="&apos;code %u&apos;" modified="2023-12-02T00:25:21Z" count="1"/>
+          <bookmark:application name="Firefox" exec="&apos;firefox-esr %u&apos;" modified="2023-12-03T04:10:33Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///cs/home/adriansd/LabM4.v" added="2023-12-02T00:54:33Z" modified="2023-12-03T04:10:24Z" visited="2023-12-02T00:54:33Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-verilog"/>
+        <bookmark:applications>
+          <bookmark:application name="code" exec="&apos;code %u&apos;" modified="2023-12-02T00:54:33Z" count="1"/>
+          <bookmark:application name="Firefox" exec="&apos;firefox-esr %u&apos;" modified="2023-12-03T04:10:24Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///cs/home/adriansd/LabM5.v" added="2023-12-02T01:30:34Z" modified="2023-12-03T04:10:16Z" visited="2023-12-02T01:30:34Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-verilog"/>
+        <bookmark:applications>
+          <bookmark:application name="code" exec="&apos;code %u&apos;" modified="2023-12-02T01:30:34Z" count="1"/>
+          <bookmark:application name="Firefox" exec="&apos;firefox-esr %u&apos;" modified="2023-12-03T04:10:16Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///cs/home/adriansd/ram.dat" added="2023-12-02T01:34:03Z" modified="2023-12-04T22:25:34Z" visited="2023-12-02T01:34:03Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="code" exec="&apos;code %u&apos;" modified="2023-12-02T01:34:03Z" count="1"/>
+          <bookmark:application name="Firefox" exec="&apos;firefox-esr %u&apos;" modified="2023-12-04T22:25:34Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///cs/home/adriansd/LabM6.v" added="2023-12-02T03:45:06Z" modified="2023-12-03T04:10:07Z" visited="2023-12-02T03:45:07Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-verilog"/>
+        <bookmark:applications>
+          <bookmark:application name="code" exec="&apos;code %u&apos;" modified="2023-12-02T03:45:06Z" count="1"/>
+          <bookmark:application name="Firefox" exec="&apos;firefox-esr %u&apos;" modified="2023-12-03T04:10:07Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///cs/home/adriansd/LabM7.v" added="2023-12-02T04:07:53Z" modified="2023-12-03T04:09:55Z" visited="2023-12-02T04:07:53Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-verilog"/>
+        <bookmark:applications>
+          <bookmark:application name="code" exec="&apos;code %u&apos;" modified="2023-12-02T04:07:53Z" count="1"/>
+          <bookmark:application name="Firefox" exec="&apos;firefox-esr %u&apos;" modified="2023-12-03T04:09:55Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///cs/home/adriansd/LabM8.v" added="2023-12-02T23:17:46Z" modified="2023-12-03T04:09:45Z" visited="2023-12-02T23:17:46Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-verilog"/>
+        <bookmark:applications>
+          <bookmark:application name="code" exec="&apos;code %u&apos;" modified="2023-12-02T23:17:46Z" count="1"/>
+          <bookmark:application name="Firefox" exec="&apos;firefox-esr %u&apos;" modified="2023-12-03T04:09:45Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///cs/home/adriansd/LabM9.v" added="2023-12-03T02:32:51Z" modified="2023-12-03T04:09:37Z" visited="2023-12-03T02:32:51Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-verilog"/>
+        <bookmark:applications>
+          <bookmark:application name="code" exec="&apos;code %u&apos;" modified="2023-12-03T02:32:51Z" count="1"/>
+          <bookmark:application name="Firefox" exec="&apos;firefox-esr %u&apos;" modified="2023-12-03T04:09:37Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///cs/home/adriansd/LabM10.v" added="2023-12-03T04:06:38Z" modified="2023-12-03T04:09:26Z" visited="2023-12-03T04:06:38Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-verilog"/>
+        <bookmark:applications>
+          <bookmark:application name="code" exec="&apos;code %u&apos;" modified="2023-12-03T04:06:38Z" count="1"/>
+          <bookmark:application name="Firefox" exec="&apos;firefox-esr %u&apos;" modified="2023-12-03T04:09:26Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///cs/home/adriansd/LabN3.v" added="2023-12-04T22:02:09Z" modified="2023-12-04T22:24:50Z" visited="2023-12-04T22:02:09Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-verilog"/>
+        <bookmark:applications>
+          <bookmark:application name="code" exec="&apos;code %u&apos;" modified="2023-12-04T22:02:09Z" count="1"/>
+          <bookmark:application name="Firefox" exec="&apos;firefox-esr %u&apos;" modified="2023-12-04T22:24:50Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///cs/home/adriansd/LabN4.v" added="2023-12-04T22:19:26Z" modified="2023-12-04T22:25:06Z" visited="2023-12-04T22:19:27Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-verilog"/>
+        <bookmark:applications>
+          <bookmark:application name="code" exec="&apos;code %u&apos;" modified="2023-12-04T22:19:26Z" count="1"/>
+          <bookmark:application name="Firefox" exec="&apos;firefox-esr %u&apos;" modified="2023-12-04T22:25:06Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+</xbel>

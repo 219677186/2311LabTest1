@@ -1,0 +1,122 @@
+#+1695669106
+RSV
+#+1695669213
+RSV%
+#+1695671803
+rsv &
+#+1695681257
+rvs7
+#+1695682866
+rvs &
+#+1697217463
+& rvs
+#+1698698931
+sudo apt update
+#+1698698966
+rvs
+#+1699245968
+sudo apt-get install libaa-bin
+#+1699245997
+aafire
+#+1699246132
+$ sudo apt-get install libaa-bin
+#+1699247623
+icarus
+#+1699248000
+gtkwave
+#+1699248107
+verilog
+#+1699248113
+verilog gtkwave
+#+1699248385
+iverilog.exe -o test paramAdder.v.txt
+#+1699585418
+iverilog labK1.v
+#+1699894022
+iverilog LabK1.v
+#+1699904830
+a.out
+#+1699905716
+iverilog LabK2.v
+#+1699911373
+iverilog LabK3.v
+#+1699911765
+iverilog LabK4.v
+#+1699913864
+iverilog LabK5.v
+#+1699919246
+iverilog LabK6.v
+#+1699924049
+iverilog LabK7.v
+#+1699924503
+iverilog LabK8.v
+#+1700356896
+iverilog LabK9.v
+#+1700504663
+iverilog LabL2.v yMux2.v
+#+1700504675
+iverilog LabL2.v yMux1.v
+#+1700505338
+iverilog LabL2.v
+#+1700505797
+iverilog LabL3.v
+#+1700512844
+iverilog LabL3.v yMux2.v
+#+1700838611
+iverilog LabL5.v yAdder1.v
+#+1700838918
+iverilog LabL6.v yAdder.v yAdder1.v
+#+1700839075
+iverilog LabL7.v yAdder.v yAdder1.v
+#+1700945277
+iverilog yArith.v
+#+1701125037
+iverilog LabL8.v yArith.v
+#+1701125126
+iverilog yMux2.v
+#+1701125129
+iverilog LabL8.v yArith.v yMux2.v
+#+1701126074
+iverilog LabL10.v yAlu.v
+#+1701126147
+iverilog LabL8.v yArith.v yMux.v
+#+1701126566
+iverilog LabL10.v yAlu.v yArith.v
+#+1701127126
+iverilog LabL9.v yAlu.v
+#+1701474486
+iverilog LabM1.v
+#+1701474834
+vvp a.out +enable=0
+#+1701474842
+vvp a.out +enable=2
+#+1701476114
+iverilog LabM2.v
+#+1701476745
+vvp a.out +enable=1
+#+1701477178
+iverilog LabM3.v
+#+1701477221
+vvp a.out +z=0
+#+1701478611
+iverilog LabM4.v
+#+1701485544
+iverilog LabM5.v
+#+1701488736
+iverilog LabM6.v
+#+1701489493
+iverilog LabL11.v yAlu.v
+#+1701490081
+iverilog LabM7.v
+#+1701490124
+iverilog LabM7.v cpu.v
+#+1701574497
+iverilog LabM8.v cpu.v
+#+1701574740
+iverilog LabM9.v cpu.v
+#+1701730490
+iverilog LabM10.v cpu.v
+#+1701730981
+iverilog LabN3.v cpu.v
+#+1701730986
+vvp a.out

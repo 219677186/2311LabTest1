@@ -1,0 +1,58 @@
+
+**** 09/14/23 17:10:05 ******* PSpice Lite (March 2016) ******* ID# 10813 ****
+
+ ** Profile: "SCHEMATIC1-Test1"  [ Z:\Downloads\MySimpleCircuit-PSpiceFiles\SCHEMATIC1\Test1.sim ] 
+
+
+ ****     CIRCUIT DESCRIPTION
+
+
+******************************************************************************
+
+
+
+
+** Creating circuit file "Test1.cir" 
+** WARNING: THIS AUTOMATICALLY GENERATED FILE MAY BE OVERWRITTEN BY SUBSEQUENT SIMULATIONS
+
+*Libraries: 
+* Profile Libraries :
+* Local Libraries :
+* From [PSPICE NETLIST] section of C:\Users\adriansd\AppData\Local\Temp\17.2.0\PSpice.ini file:
+.lib "nomd.lib" 
+
+*Analysis directives: 
+.DC LIN V_V1 1 10 1 
+.OPTIONS ADVCONV
+.PROBE64 V(alias(*)) I(alias(*)) W(alias(*)) D(alias(*)) NOISE(alias(*)) 
+.INC "..\SCHEMATIC1.net" 
+
+
+
+**** INCLUDING SCHEMATIC1.net ****
+* source MYSIMPLECIRCUIT
+R_R1         N00251 OUT  5k TC=0,0 
+R_R2         OUT N00188  5k TC=0,0 
+R_R3         N00188 0  5k TC=0,0 
+V_V1         N00251 0 10Vdc
+
+**** RESUMING Test1.cir ****
+.END
+
+
+          JOB CONCLUDED
+
+**** 09/14/23 17:10:05 ******* PSpice Lite (March 2016) ******* ID# 10813 ****
+
+ ** Profile: "SCHEMATIC1-Test1"  [ Z:\Downloads\MySimpleCircuit-PSpiceFiles\SCHEMATIC1\Test1.sim ] 
+
+
+ ****     JOB STATISTICS SUMMARY
+
+
+******************************************************************************
+
+
+
+  Total job time (using Solver 1)   =         .03
+

@@ -1,0 +1,18 @@
+2023-12-04 17:05:01.029 [info] Log level: Info
+2023-12-04 17:05:01.029 [info] Validating found git in: "git"
+2023-12-04 17:05:01.029 [info] Using git "2.39.3" from "git"
+2023-12-04 17:05:01.573 [info] > git rev-parse --show-toplevel [3ms]
+2023-12-04 17:05:01.573 [info] fatal: not a git repository (or any parent up to mount point /eecs/home)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2023-12-04 17:19:27.204 [info] > git rev-parse --show-toplevel [1ms]
+2023-12-04 17:19:27.204 [info] fatal: not a git repository (or any parent up to mount point /eecs/home)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2023-12-04 17:20:17.054 [info] > git rev-parse --show-toplevel [1ms]
+2023-12-04 17:20:17.054 [info] fatal: not a git repository (or any parent up to mount point /eecs/home)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2023-12-04 17:20:18.125 [info] > git rev-parse --show-toplevel [2ms]
+2023-12-04 17:20:18.125 [info] fatal: not a git repository (or any parent up to mount point /eecs/home)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2023-12-04 17:25:56.049 [info] > git rev-parse --show-toplevel [2ms]
+2023-12-04 17:25:56.049 [info] fatal: not a git repository (or any parent up to mount point /eecs/home)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).

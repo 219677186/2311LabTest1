@@ -1,0 +1,5 @@
+* source MYSIMPLECIRCUIT
+R_R1         N00251 OUT  5k TC=0,0 
+R_R2         OUT N00188  5k TC=0,0 
+R_R3         N00188 0  5k TC=0,0 
+V_V1         N00251 0 10Vdc

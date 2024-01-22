@@ -1,0 +1,18 @@
+initial
+begin
+        for(i = 0; i < 2; i = i + 1)
+        begin
+            for(j = 0; j < 2; j = j + 1)
+            begin
+                a = i; b = j;
+                expect = i & ~b;
+                #1 
+                if(expect === z)
+                    $display("PASS: a=%b b=%b z=%b", a, b, z);
+                else
+                    $display("FAIL: a=%b b=%b z=%b", a, b, z);
+            end
+        end
+        $finish;
+end
+endmodule

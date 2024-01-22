@@ -1,0 +1,91 @@
+[20231201-15:38:58] [INFO ] Socket 12: AF_UNIX connection received
+[20231201-15:38:58] [INFO ] sound_process_output_format:
+[20231201-15:38:58] [INFO ]       wFormatNo       0
+[20231201-15:38:58] [INFO ]       wFormatTag      WAVE_FORMAT_PCM
+[20231201-15:38:58] [INFO ]       nChannels       2
+[20231201-15:38:58] [INFO ]       nSamplesPerSec  44100
+[20231201-15:38:58] [INFO ]       nAvgBytesPerSec 176400
+[20231201-15:38:58] [INFO ]       nBlockAlign     4
+[20231201-15:38:58] [INFO ]       wBitsPerSample  16
+[20231201-15:38:58] [INFO ]       cbSize          0
+[20231201-15:38:58] [INFO ] sound_process_output_format:
+[20231201-15:38:58] [INFO ]       wFormatNo       1
+[20231201-15:38:58] [INFO ]       wFormatTag      WAVE_FORMAT_PCM
+[20231201-15:38:58] [INFO ]       nChannels       2
+[20231201-15:38:58] [INFO ]       nSamplesPerSec  22050
+[20231201-15:38:58] [INFO ]       nAvgBytesPerSec 88200
+[20231201-15:38:58] [INFO ]       nBlockAlign     4
+[20231201-15:38:58] [INFO ]       wBitsPerSample  16
+[20231201-15:38:58] [INFO ]       cbSize          0
+[20231201-15:38:58] [INFO ] sound_process_training: round trip time 100
+[20231201-15:42:24] [INFO ] Socket 14: AF_UNIX connection received
+[20231201-15:42:24] [INFO ] sound_process_output_format:
+[20231201-15:42:24] [INFO ]       wFormatNo       0
+[20231201-15:42:24] [INFO ]       wFormatTag      WAVE_FORMAT_PCM
+[20231201-15:42:24] [INFO ]       nChannels       2
+[20231201-15:42:24] [INFO ]       nSamplesPerSec  44100
+[20231201-15:42:24] [INFO ]       nAvgBytesPerSec 176400
+[20231201-15:42:24] [INFO ]       nBlockAlign     4
+[20231201-15:42:24] [INFO ]       wBitsPerSample  16
+[20231201-15:42:24] [INFO ]       cbSize          0
+[20231201-15:42:24] [INFO ] sound_process_output_format:
+[20231201-15:42:24] [INFO ]       wFormatNo       1
+[20231201-15:42:24] [INFO ]       wFormatTag      WAVE_FORMAT_PCM
+[20231201-15:42:24] [INFO ]       nChannels       2
+[20231201-15:42:24] [INFO ]       nSamplesPerSec  22050
+[20231201-15:42:24] [INFO ]       nAvgBytesPerSec 88200
+[20231201-15:42:24] [INFO ]       nBlockAlign     4
+[20231201-15:42:24] [INFO ]       wBitsPerSample  16
+[20231201-15:42:24] [INFO ]       cbSize          0
+[20231201-15:42:24] [INFO ] sound_process_training: round trip time 100
+[20231201-15:47:31] [INFO ] Socket 14: AF_UNIX connection received
+[20231201-15:47:31] [INFO ] sound_process_output_format:
+[20231201-15:47:31] [INFO ]       wFormatNo       0
+[20231201-15:47:31] [INFO ]       wFormatTag      WAVE_FORMAT_PCM
+[20231201-15:47:31] [INFO ]       nChannels       2
+[20231201-15:47:31] [INFO ]       nSamplesPerSec  44100
+[20231201-15:47:31] [INFO ]       nAvgBytesPerSec 176400
+[20231201-15:47:31] [INFO ]       nBlockAlign     4
+[20231201-15:47:31] [INFO ]       wBitsPerSample  16
+[20231201-15:47:31] [INFO ]       cbSize          0
+[20231201-15:47:31] [INFO ] sound_process_output_format:
+[20231201-15:47:31] [INFO ]       wFormatNo       1
+[20231201-15:47:31] [INFO ]       wFormatTag      WAVE_FORMAT_PCM
+[20231201-15:47:31] [INFO ]       nChannels       2
+[20231201-15:47:31] [INFO ]       nSamplesPerSec  22050
+[20231201-15:47:31] [INFO ]       nAvgBytesPerSec 88200
+[20231201-15:47:31] [INFO ]       nBlockAlign     4
+[20231201-15:47:31] [INFO ]       wBitsPerSample  16
+[20231201-15:47:31] [INFO ]       cbSize          0
+[20231201-15:47:31] [INFO ] sound_process_training: round trip time 101
+[20231201-15:48:06] [ERROR] clipboard_event_selection_request: unknown target text/plain;charset=utf-8
+[20231201-15:48:06] [ERROR] clipboard_event_selection_request: unknown target text/plain;charset=utf-8
+[20231201-15:48:06] [ERROR] clipboard_event_selection_request: unknown target COMPOUND_TEXT
+[20231201-15:48:06] [ERROR] clipboard_event_selection_request: unknown target text/plain;charset=utf-8
+[20231201-15:48:06] [ERROR] clipboard_event_selection_request: unknown target COMPOUND_TEXT
+[20231201-15:48:07] [ERROR] clipboard_event_selection_request: unknown target text/plain;charset=utf-8
+[20231201-15:48:07] [ERROR] clipboard_event_selection_request: unknown target text/plain;charset=utf-8
+[20231201-15:48:07] [ERROR] clipboard_event_selection_request: unknown target text/plain;charset=utf-8
+[20231201-15:48:07] [ERROR] clipboard_event_selection_request: unknown target text/plain;charset=utf-8
+[20231201-15:48:07] [ERROR] clipboard_event_selection_request: unknown target COMPOUND_TEXT
+[20231201-15:48:07] [ERROR] clipboard_event_selection_request: unknown target COMPOUND_TEXT
+[20231201-15:48:07] [ERROR] clipboard_event_selection_request: unknown target COMPOUND_TEXT
+[20231201-15:48:07] [ERROR] clipboard_event_selection_request: unknown target COMPOUND_TEXT
+[20231201-15:48:07] [ERROR] clipboard_event_selection_request: unknown target text/plain;charset=utf-8
+[20231201-15:48:07] [ERROR] clipboard_event_selection_request: unknown target COMPOUND_TEXT
+[20231201-15:50:08] [ERROR] clipboard_event_selection_request: unknown target text/plain;charset=utf-8
+[20231201-15:50:08] [ERROR] clipboard_event_selection_request: unknown target text/plain;charset=utf-8
+[20231201-15:50:08] [ERROR] clipboard_event_selection_request: unknown target COMPOUND_TEXT
+[20231201-15:50:08] [ERROR] clipboard_event_selection_request: unknown target COMPOUND_TEXT
+[20231201-15:50:08] [ERROR] clipboard_event_selection_request: unknown target text/plain;charset=utf-8
+[20231201-15:50:08] [ERROR] clipboard_event_selection_request: unknown target COMPOUND_TEXT
+[20231201-15:50:08] [ERROR] clipboard_event_selection_request: unknown target text/plain;charset=utf-8
+[20231201-15:50:08] [ERROR] clipboard_event_selection_request: unknown target text/plain;charset=utf-8
+[20231201-15:50:08] [ERROR] clipboard_event_selection_request: unknown target text/plain;charset=utf-8
+[20231201-15:50:08] [ERROR] clipboard_event_selection_request: unknown target COMPOUND_TEXT
+[20231201-15:50:08] [ERROR] clipboard_event_selection_request: unknown target COMPOUND_TEXT
+[20231201-15:50:08] [ERROR] clipboard_event_selection_request: unknown target text/plain;charset=utf-8
+[20231201-15:50:08] [ERROR] clipboard_event_selection_request: unknown target COMPOUND_TEXT
+[20231201-15:50:12] [ERROR] clipboard_event_selection_request: unknown target text/plain;charset=utf-8
+[20231201-15:50:12] [ERROR] clipboard_event_selection_request: unknown target COMPOUND_TEXT
+[20231201-15:50:39] [ERROR] clipboard_event_selection_request: unknown target COMPOUND_TEXT
